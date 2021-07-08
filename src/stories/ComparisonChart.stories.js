@@ -26,5 +26,5 @@ ComparisonChartComponent.args = {
     },
   ],
   data: [-2.1, -1, -4, -3, -9, 20, 12],
-  comparisionWith: 'CHAI',
+  comparisonWith: 'CHAI',
 };
